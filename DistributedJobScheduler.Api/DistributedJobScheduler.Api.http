@@ -1,0 +1,6 @@
+@DistributedJobScheduler.Api_HostAddress = http://localhost:5092
+
+GET {{DistributedJobScheduler.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
