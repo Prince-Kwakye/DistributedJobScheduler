@@ -38,7 +38,7 @@ The **Distributed Job Scheduler** is a scalable and efficient job scheduling sys
 
 1️⃣ Clone the repository:
    ```sh
-   git clone https://github.com/Cybertron618/DistributedJobScheduler.git
+   git clone https://github.com/Prince-Kwakye/DistributedJobScheduler.git
    cd DistributedJobScheduler
    ```
 
