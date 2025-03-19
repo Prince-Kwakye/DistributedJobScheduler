@@ -107,7 +107,7 @@ This project is licensed under the **MIT License**
 
 ## ✨ Authors & Credits
 
-- **Cybertron618** – [GitHub Profile](https://github.com/Cybertron618)
+- **Prince-Kwakye** – [GitHub Profile](https://github.com/Prince-Kwakye)
 
 Feel free to reach out for any questions or feature suggestions! 🚀
 
